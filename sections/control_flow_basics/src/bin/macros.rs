@@ -6,9 +6,9 @@ fn factorial(n: u32) -> u32 {
     product
 }
 
-fn fizzbuzz(n: u32) -> u32 {
-    todo!()
-}
+// fn fizzbuzz(n: u32) -> u32 {
+//     todo!()
+// }
 
 fn main() {
     let n = 4;
