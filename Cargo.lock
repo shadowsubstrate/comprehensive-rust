@@ -11,5 +11,9 @@ name = "hello_world"
 version = "0.1.0"
 
 [[package]]
+name = "tuples_and_arrays"
+version = "0.1.0"
+
+[[package]]
 name = "types_and_values"
 version = "0.1.0"
